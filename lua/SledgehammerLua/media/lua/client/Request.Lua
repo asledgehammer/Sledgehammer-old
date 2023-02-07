@@ -34,7 +34,7 @@ ASYNC_ERROR_TIMEOUT = 1;
 -- @author Jab
 -- @module Core
 -- @license LGPL
--- @copyright Jab, Joshua Edwards 2017
+-- @copyright Jab
 --
 -- @string mod 		Module to associate with the command request
 -- @string command 	Command to associate with the command request
